@@ -1,5 +1,5 @@
 # FactorMoE
-
+[FactorMoE](https://link.springer.com/content/pdf/10.1007/s40747-026-02307-2.pdf)
 ## 📦Data Preparation
 Refer to [AlphaForge](https://github.com/dulyhao/alphaforge) and [AlphaGen](https://github.com/RL-MLDM/alphagen) to first obtain raw data using [Qlib](https://github.com/microsoft/qlib).
 
